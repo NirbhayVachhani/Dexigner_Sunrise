@@ -13,7 +13,7 @@
 - Editor: Visual Studio Code (for editing HTML, JavaScript, and CSS)
 - Some use of online JavaScript and CSS resources
 
-**Description (Max 100 Words):**
+**Description:**
 This website project, DEXIGNER_SUNRISE, has been created for the sole purpose of learning and enhancing web design skills. It is focused on an educational theme, with Parul University as the subject matter. Special emphasis has been placed on background design and the use of various colors and CSS effects to make the website visually engaging. The project is intended for educational and learning purposes and is not published online.
 
 ## Usage
